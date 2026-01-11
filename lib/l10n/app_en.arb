@@ -1,0 +1,95 @@
+{
+  "appTitle": "ProPitch Booking",
+  "mainStadium": "Main Stadium",
+  "pleaseFillAllFields": "Please fill in all fields",
+  "userExists": "Phone or Username already exists",
+  "invalidCredentials": "Invalid phone or password",
+  "errorOccurred": "Error: {error}",
+  "@errorOccurred": {
+    "placeholders": {
+      "error": {}
+    }
+  },
+  "createAccount": "Create Account",
+  "welcomeBack": "Welcome Back",
+  "joinCommunity": "Join the stadium community",
+  "signInPrompt": "Sign in using your phone",
+  "username": "Username",
+  "phoneNumber": "Phone Number",
+  "phoneHint": "e.g. 0123456789",
+  "password": "Password",
+  "signUp": "Sign Up",
+  "signIn": "Sign In",
+  "alreadyHaveAccount": "Already have an account? Sign In",
+  "noAccount": "Don't have an account? Sign Up",
+  "continueAsGuest": "Continue as Guest",
+  "loginToBook": "Please login to book a slot",
+  "operationsInfo": "Select an available slot to book your match. Operations start at 3:00 PM daily.",
+  "tapToCancel": "Tap to cancel",
+  "available": "Available",
+  "bookSlot": "Book {time}",
+  "@bookSlot": {
+    "placeholders": {
+      "time": {}
+    }
+  },
+  "teamName": "Team Name",
+  "repeatWeekly": "Repeat Weekly",
+  "weeksLabel": "Weeks: ",
+  "weeksCount": "{weeks} weeks",
+  "@weeksCount": {
+    "placeholders": {
+      "weeks": {}
+    }
+  },
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "allDatesTaken": "All selected dates are already taken.",
+  "bookingConfirmed": "Booking confirmed for {count} slots.",
+  "@bookingConfirmed": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "skippedDates": "\nSkipped taken dates: {dates}",
+  "@skippedDates": {
+    "placeholders": {
+      "dates": {}
+    }
+  },
+  "cancelBookingTitle": "Cancel Booking?",
+  "cancelBookingMessage": "Are you sure you want to cancel the booking for {teamName} at {time}?",
+  "@cancelBookingMessage": {
+    "placeholders": {
+      "teamName": {},
+      "time": {}
+    }
+  },
+  "no": "No",
+  "yesCancel": "Yes, Cancel",
+  "bookingCancelled": "Booking cancelled successfully",
+  "supportCall": "For support or announcements, call: 01112143221",
+  "weeklyMatrixReport": "Weekly Matrix Report",
+  "dayLabel": "DAY",
+  "noPhone": "No phone",
+  "deleteBookingTitle": "Delete Booking?",
+  "deleteBookingMessage": "Remove {teamName} at {time}?",
+  "@deleteBookingMessage": {
+    "placeholders": {
+      "teamName": {},
+      "time": {}
+    }
+  },
+  "delete": "Delete",
+  "pendingStatus": "Pending",
+  "bookingRequestSent": "Booking request sent",
+  "adminRequests": "Booking Requests",
+  "approve": "Approve",
+  "reject": "Reject",
+  "noPendingRequests": "No pending requests",
+  "manageBooking": "Manage Booking",
+  "cancelBookingWarning": "Are you sure you want to delete this booking?",
+  "close": "Close",
+  "pendingRequest": "Pending Request",
+  "adminRequestReviewMessage": "Review this booking request. You can approve or reject it."
+}
