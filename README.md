@@ -1,6 +1,5 @@
 # booking_app
-
-A new Flutter project.
+Application to book hours at playground
 
 ## Getting Started
 
